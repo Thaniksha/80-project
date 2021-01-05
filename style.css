@@ -1,0 +1,16 @@
+#para1{
+    margin-left: 200px;
+}
+
+#para2{
+    float: right;
+    margin-right: 100px;
+}
+
+#para1{
+float: left;
+}
+#showParagraph1{
+    float: left;
+}
+
